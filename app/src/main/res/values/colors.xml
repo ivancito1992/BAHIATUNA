@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f6c16</color>
+    <color name="colorPrimaryDark">#283819</color>
+    <color name="colorAccent">#ff0000</color>
+
+    <!-- COLOR DE LAS LETRAS Y ESTILOS -->
+    <color name="colorLetras">#ffffff</color>
+    <color name="colorSombraLetras">#d9682b</color>
+
+    <!-- COLOR DE LOS VEGGIES ROJOS -->
+    <color name="colorVeggieRojo1">#9c001d</color>
+    <color name="colorVeggieRojo2">#fd5663</color>
+    <color name="colorRojoBorde">#510006</color>
+
+    <!-- COLOR DE LOS VEGGIES VERDES -->
+    <color name="colorVeggieVerde1">#3f6c16</color>
+    <color name="colorVeggieVerde2">#a7ed67</color>
+    <color name="colorVerdeBorde">#131e09</color>
+
+    <!-- COLOR DE LOS VEGGIES NARANJAS -->
+    <color name="colorVeggieNaranja1">#d9682b</color>
+    <color name="colorVeggieNaranja2">#f4a76b</color>
+    <color name="colorNaranjaBorde">#351904</color>
+
+    <!-- COLOR DE LOS BOTONES DE LOS ZUMOS -->
+    <color name="colorBotonZumos1">#232323</color>
+    <color name="colorBotonZumos2">#a7a7a7</color>
+    <color name="colorBotonZumosBorde">#5b5b5b</color>
+
+    <!-- COLOR DE LOS BOTONES DE LA APLICACION -->
+    <color name="colorBoton1">#ff0000</color>
+    <color name="colorBoton2">#fd5663</color>
+    <color name="colorBotonBorde">#510006</color>
+</resources>

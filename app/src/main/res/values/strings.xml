@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Zumosol</string>
+    <string name="nombrePersona">Azafata</string>
+    <string name="nombreCentro">Centro</string>
+    <string name="diaDeRecogida">Dia de Recogida de los datos</string>
+    <string name="numeroBotellas">Numero de botellas consumidas</string>
+    <string name="tipoZumo">Tipo de zumo consumido</string>
+    <string name="contador">0</string>
+
+    <string name="titulo1">Datos Generales</string>
+    <string name="titulo2">Concepto</string>
+    <string name="titulo3">Datos de Interés</string>
+    <string name="titulo4">Centro / Acción</string>
+    <string name="tituloFinal">GRACIAS POR SU ATENCIÓN</string>
+
+    <string name="pregunta1">¿Ha gustado el sabor del zumo?</string>
+    <string name="pregunta2">¿Ha gustado el envase / formato del zumo?</string>
+    <string name="pregunta3">¿El cliente aprecia la desgustación?</string>
+    <string name="pregunta4">¿El sabor resulta natural?</string>
+    <string name="pregunta5">¿Ha gustado la mezcla de sabores?</string>
+    <string name="pregunta6">¿La mezcla de zanahoria es la que menos gusta?</string>
+    <string name="pregunta7">¿Los sabores Kiwi y Naranja resultan acidos?</string>
+    <string name="pregunta8">¿El precio resulta elevado?</string>
+    <string name="pregunta9">¿Aprecia que no tenga azucares añadidos?</string>
+    <string name="pregunta10">¿El producto gustaria mas si estuviera refrigerado?</string>
+    <string name="pregunta11">¿La naranja sigue siendo mas predominante en la mezcla de sabores?</string>
+
+    <string name="preguntaSiNo1">¿Ha tenido facilidad por parte del centro para realizar la acción?</string>
+    <string name="preguntaSiNo2">¿Te han facilitado los productos sin problema?</string>
+    <string name="preguntaSiNo3">¿Te ha resultado facil colocar los elementos promocionales?</string>
+
+    <string name="zumoClasico">Clasico</string>
+    <string name="zumoAntioxidante">Antioxidante</string>
+    <string name="zumoOrganico">Organico</string>
+    <string name="zumoPrisma">Prisma</string>
+    <string name="zumoVeggies">Veggies</string>
+    <string name="otrosZumos">Otros zumos</string>
+
+    <string name="radiobtn1">Mucho</string>
+    <string name="radiobtn2">Poco</string>
+    <string name="radiobtn3">Nada</string>
+    <string name="radiobtnSi">SI</string>
+    <string name="radiobtnNo">NO</string>
+
+    <string name="btnIniciar">Comenzar</string>
+    <string name="btnFinalizar">Guardar y finalizar</string>
+    <string name="btnSiguiente">-></string>
+    <string name="btnAñadirBotella">+</string>
+    <string name="btnQuitarBotella">-</string>
+</resources>
